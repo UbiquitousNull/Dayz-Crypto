@@ -1,0 +1,11 @@
+<mod>
+    <name>DayzCrypto</name>
+    <picture>path\to\your\mod\logo.paa</picture>
+    <tooltip>What are you looking at? (ㆆ _ ㆆ)</tooltip>
+    <overview>mod overview</overview>
+    <author>UbiquitousNull</author>
+    <version>0.0.1</version>
+    <hideName>0</hideName>
+    <hidePicture>1</hidePicture>
+    <dir>@DayzCrypto</dir>
+</mod>
